@@ -2,8 +2,7 @@
 <h3 align="center">A passionate developer from Turkey</h3>
 
 - 🔭 I’m currently working on ecole42 [42cursus](42cursus)
-- ![](https://i.hizliresim.com/a5px1rx.png)
-
+- ![](https://i.hizliresim.com/u60moss.png)
 - 🌱 I’m currently learning **C,C++**
 
 <h3 align="left">Connect with me:</h3>
