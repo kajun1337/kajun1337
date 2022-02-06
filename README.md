@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kajun1337</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate developer from Turkey</h3>
 
 - 🔭 I’m currently working on ecole42 [42cursus](42cursus)
 
