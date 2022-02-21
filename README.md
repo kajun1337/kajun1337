@@ -36,5 +36,5 @@ I'm Student Of Ecole42 / Software Developer from Turkey
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajun1337&layout=compact&title_color=c8ffc9&icon_color=236026&bg_color=09131B&text_color=ffffff&border_color=236026)](https://github.com/kajun1337/kajun1337)《-------》   [![kajun1337's 42 stats](https://badge42.herokuapp.com/api/stats/muhozkan)](https://github.com/JaeSeoKim/badge42)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajun1337&layout=compact&title_color=c8ffc9&icon_color=236026&bg_color=09131B&text_color=ffffff&border_color=236026)](https://github.com/kajun1337/kajun1337)[![kajun1337's 42 stats](https://badge42.herokuapp.com/api/stats/muhozkan)](https://github.com/JaeSeoKim/badge42)
 <p align="middle"> <img src=https://komarev.com/ghpvc/?username=kajun1337 alt=kajun1337/> </p>
