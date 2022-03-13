@@ -6,7 +6,7 @@ I'm Student Of Ecole42 / Software Developer from Turkey
 
 - 🔭 I’m currently working on **ECOLE42** 
 - 🌱 I’m currently learning **everything 🤣**
-- 📫 How to reach me: **kajun1337@yandex.com**
+- 📫 How to reach me: **info@kajun1337.tech**
 - ⚡  **Temet Nosce**
 
 ### Connect with me:
