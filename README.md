@@ -34,6 +34,6 @@ I'm Student Of Ecole42 / Software Developer from Turkey
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 </p>
 <p align="center">
-<a href="https://github.com/kajun1337"><img width=%48 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajun1337&layout=compact&title_color=c8ffc9&icon_color=236026&bg_color=09131B&text_color=ffffff&border_color=236026)]"/></a>
-<a href="https://github.com/kajun1337"><img width=%48 src="https://badge42.vercel.app/api/v2/cl13ysjto000607l3wvhwhvra/stats?cursusId=21&coalitionId=undefined" alt="muhozkan's 42 stats" /></a>
+<a href="https://github.com/kajun1337"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajun1337&layout=compact&title_color=c8ffc9&icon_color=236026&bg_color=09131B&text_color=ffffff&border_color=236026)]"/></a>
+<a href="https://github.com/kajun1337"><img src="https://badge42.vercel.app/api/v2/cl13ysjto000607l3wvhwhvra/stats?cursusId=21&coalitionId=undefined" alt="muhozkan's 42 stats" /></a>
 </p>
