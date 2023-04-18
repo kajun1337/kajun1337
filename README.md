@@ -2,13 +2,7 @@
 <p align="center">
 <a href="https://github.com/kajun1337/kajun1337" target="_blank" rel="noreferrer"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=kajun1337&show_icons=true&hide_border=false&title_color=c8ffc9&icon_color=236026&bg_color=09131B&text_color=ffffff&border_color=236026" /> </a>
 
-I'm Student Of Ecole42 / Software Developer from Turkey
-
-- 🔭 I’m currently working on **ECOLE42** 
-- 🌱 I’m currently learning **everything 🤣**
-- 📫 How to reach me: **info@kajun1337.tech**
-- ⚡  **Temet Nosce**
-
+![screenshot](charizard2.gif)
 ### Connect with me:
 
 <p align="left">
